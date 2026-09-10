@@ -10,6 +10,10 @@ Nama: Stevan Ng\
 Nomor absen: 28\
 Kelas: 10 TKJ 2
 
+## Cara Membuka Website
+
+Buka file [index.html](index.html) menggunakan browser.
+
 ## Profil/Sejarah Singkat
 
 PT MDS Retailing Tbk merupakan perusahaan ritel Indonesia yang mengoperasikan merek Matahari Department Store. Perusahaan ini memulai kegiatan usahanya pada 24 Oktober 1958 ketika Hari Darmawan mendirikan toko pakaian anak pertama di Jakarta. Pada 1972, Matahari menjadi department store modern pertama di Indonesia. Saat ini, Matahari memiliki lebih dari 140 gerai di hampir 80 kota dan melayani pelanggan melalui gerai fisik, Matahari.com, serta berbagai layanan omnichannel. Produk yang ditawarkan meliputi pakaian, alas kaki, produk kecantikan, dan berbagai kategori gaya hidup lainnya.
@@ -44,7 +48,7 @@ Poin tersebut merupakan pemecahan dari satu misi resmi Matahari karena Matahari 
 
 ## Logo
 
-Sumber dari https://commons.wikimedia.org/wiki/File:Matahari_(2022).svg
+Sumber logo dari [Matahari 2022 di Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Matahari_%282022%29.svg)
 
 ## Alamat dan kontak
 
@@ -57,21 +61,21 @@ Corporate communications: corp.comm@matahari.com -->
 
 ## Situs resmi dan media sosial
 
-- Situs resmi : https://matahari.com/
-- Instagram : https://www.instagram.com/matahari/
-- Facebook : https://www.facebook.com/MatahariDepartmentStore/
-- YouTube : https://www.youtube.com/channel/UCcu2P8G1dM1h4HLL4jhcfOA
-- X/Twitter : https://x.com/gayamatahari
-- TikTok : https://www.tiktok.com/@tiktokmatahari
+- [Situs resmi](https://matahari.com/)
+- [Instagram](https://www.instagram.com/matahari/)
+- [Facebook](https://www.facebook.com/MatahariDepartmentStore/)
+- [YouTube](https://www.youtube.com/channel/UCcu2P8G1dM1h4HLL4jhcfOA)
+- [X/Twitter](https://x.com/gayamatahari)
+- [TikTok](https://www.tiktok.com/@tiktokmatahari)
 
 ## Daftar sumber
 
-- https://matahari.com/pages/about-us
-- https://matahari.com/pages/vision-and-mission
-- https://mdsretailing.com/blogs/news/siaran-pers-pt-matahari-department-store-tbk-kini-menjadi-pt-mds-retailing-tbk
-- https://matahari.com/pages/contact-us
-- https://cdn.shopify.com/s/files/1/0666/9212/0727/files/ar-2018.pdf?v=1738221709
-- https://cdn.shopify.com/s/files/1/0666/9212/0727/files/MDS_2024_AR_19032025.pdf?v=1743144929
+- [Tentang Matahari](https://matahari.com/pages/about-us)
+- [Visi dan Misi Matahari](https://matahari.com/pages/vision-and-mission)
+- [Perubahan nama PT Matahari Department Store menjadi PT MDS Retailing](https://mdsretailing.com/blogs/news/siaran-pers-pt-matahari-department-store-tbk-kini-menjadi-pt-mds-retailing-tbk)
+- [Kontak Matahari](https://matahari.com/pages/contact-us)
+- [Laporan Tahunan 2018](https://cdn.shopify.com/s/files/1/0666/9212/0727/files/ar-2018.pdf?v=1738221709)
+- [Laporan Tahunan 2024](https://cdn.shopify.com/s/files/1/0666/9212/0727/files/MDS_2024_AR_19032025.pdf?v=1743144929)
 
 ## Pernyataan
 
