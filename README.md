@@ -1,23 +1,18 @@
-
 # PT MDS Retailing Tbk
 
 Pay Less, Feel Good.
 
 (Sebelumnya bernama PT Matahari Department Store Tbk; perubahan nama badan hukum berlaku sejak April 2026. Merek ritelnya tetap dikenal sebagai Matahari Department Store.)
+
 ## Identitas murid
 
 Nama: Stevan Ng\
 Nomor absen: 28\
 Kelas: 10 TKJ 2
 
-## Profil/sejarah singkat
+## Profil/Sejarah Singkat
 
-- Matahari mulai beroperasi pada 24 Oktober 1958.
-- Gerai pertama didirikan oleh Hari Darmawan di Jakarta sebagai toko pakaian anak.
-- Pada 1972, Matahari membuka department store modern pertama di Indonesia.
-- Pada 2009, divisi Matahari Department Store diakuisisi oleh PT Pacific Utama Tbk.
-- Matahari kemudian beroperasi sebagai perusahaan publik independen dengan nama PT Matahari Department Store Tbk dan kode saham LPPF.
-- Saat ini, merek Matahari memiliki lebih dari 140 gerai di hampir 80 kota serta platform belanja digital Matahari.com. Profil resmi Matahari
+PT MDS Retailing Tbk merupakan perusahaan ritel Indonesia yang mengoperasikan merek Matahari Department Store. Perusahaan ini memulai kegiatan usahanya pada 24 Oktober 1958 ketika Hari Darmawan mendirikan toko pakaian anak pertama di Jakarta. Pada 1972, Matahari menjadi department store modern pertama di Indonesia. Saat ini, Matahari memiliki lebih dari 140 gerai di hampir 80 kota dan melayani pelanggan melalui gerai fisik, Matahari.com, serta berbagai layanan omnichannel. Produk yang ditawarkan meliputi pakaian, alas kaki, produk kecantikan, dan berbagai kategori gaya hidup lainnya.
 
 ## Visi
 
@@ -54,12 +49,14 @@ Sumber dari https://commons.wikimedia.org/wiki/File:Matahari_(2022).svg
 ## Alamat dan kontak
 
 Kantor pusat: Menara Matahari, 12th Floor, Jalan Bulevar Palem Raya No. 7, Karawaci, Tangerang 15811.\
-WhatsApp: +62 811-8118-8888\
+
+<!-- WhatsApp: +62 811-8118-8888\
 Customer service: halo@matahari.com\
 Investor relations: ir@matahari.com\
-Corporate communications: corp.comm@matahari.com
+Corporate communications: corp.comm@matahari.com -->
 
 ## Situs resmi dan media sosial
+
 - Situs resmi : https://matahari.com/
 - Instagram : https://www.instagram.com/matahari/
 - Facebook : https://www.facebook.com/MatahariDepartmentStore/
